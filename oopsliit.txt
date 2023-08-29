@@ -1,3 +1,4 @@
 Object oriented programmin
 java
-
+java compiler 
+java interpreter - java vertual machine
